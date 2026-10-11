@@ -1,0 +1,1 @@
+import{g as e,p as t,t as n}from"./dang-BuVOylFl.js";function r(r){let i=[{pts:t,w:2.4,kin:!0,muc:`go2`,amp:.6}],a=Math.floor(575/n)+1;for(let t=2;t<=a;t++)i.push({pts:e(t,.98,1.4),w:t%5==0?1.1:.7,muc:`go3`,amp:.3});return{id:`bong-${r}`,net:i,the:{"data-bong":``},trongSuot:!0}}export{r as bongThan};

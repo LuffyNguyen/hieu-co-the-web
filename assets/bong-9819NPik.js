@@ -1,0 +1,1 @@
+import{_ as e,d as t,i as n,r}from"./vay-7gjAR2w2.js";function i(i){let a=(e,t=1.8,n=!0)=>({pts:e,w:t,kin:n,muc:`go2`,amp:.6});return{id:`bong-${i}`,net:[a(t,2.4),a(n,2.4),a(r(`vay-lung`).vien),a(r(`vay-nguc`).vien),{...a(e(),1.6),amp:.4}],the:{"data-bong":``},trongSuot:!0}}export{i as bongThan};

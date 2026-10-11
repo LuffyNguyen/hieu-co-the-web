@@ -1,0 +1,1 @@
+import{n as e}from"./suon-DDcSptLH.js";var t={x:10,y:-310,w:700,h:630};function n(){return[e()]}var r=[{ten:`Xương sườn`,he:[`khung`]}];export{t as KHUNG_NHIN,r as NAM_TO,n as toThanLanBay};

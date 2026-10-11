@@ -1,0 +1,1 @@
+import{n as e}from"./vay-o6MmTKPi.js";var t={x:-80,y:-320,w:1200,h:600};function n(){return[e()]}var r=[{ten:`Vây`,he:[`bao`]}];export{t as KHUNG_NHIN,r as NAM_TO,n as toCaBamDa};

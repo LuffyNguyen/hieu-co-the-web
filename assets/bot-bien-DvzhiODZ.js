@@ -1,0 +1,1 @@
+import{r as e}from"./choi-hYkFXpU5.js";import{n as t}from"./dung-DUCXL4a3.js";import"./khung-X_iJWbLk.js";var n=t(`bot-bien`,e);export{n as BAN};

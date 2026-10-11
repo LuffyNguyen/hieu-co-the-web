@@ -1,0 +1,1 @@
+import{t as e}from"./tan-rung-chon-gTg5vMAx.js";import{n as t}from"./dung-DUCXL4a3.js";import"./khung-X_iJWbLk.js";var n=t(`chon-bay`,e,`chon-treo`);export{n as BAN};

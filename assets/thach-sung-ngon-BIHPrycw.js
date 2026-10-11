@@ -1,0 +1,1 @@
+import{n as e}from"./trung-OIu109xv.js";var t={x:-130,y:-380,w:1290,h:770};function n(){return[e()]}var r=[{ten:`Trứng`,he:[`sinh`]}];export{t as KHUNG_NHIN,r as NAM_TO,n as toThachSungNgon};

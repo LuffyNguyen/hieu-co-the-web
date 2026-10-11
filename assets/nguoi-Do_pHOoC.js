@@ -1,0 +1,1 @@
+import{n as e}from"./vo-BVS0L4XB.js";import{r as t}from"./dung-DUCXL4a3.js";import"./khung-X_iJWbLk.js";var n=t(`nguoi`,e());export{n as BAN};

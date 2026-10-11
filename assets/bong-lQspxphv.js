@@ -1,0 +1,1 @@
+import{o as e}from"./net-fe7UQRFb.js";import{S as t,u as n,y as r}from"./dang-D4XAYtir.js";function i(i){let a=(e,t=1.8,n=!0)=>({pts:e,w:t,kin:n,muc:`go2`,amp:.6}),o=e(n,!1,6),s=e(t(),!1,8);return{id:`bong-${i}`,net:[a([...o,...r(o).reverse()],2.4),a([...s,...r(s).reverse()],1.8)],the:{"data-bong":``},trongSuot:!0}}export{i as bongThan};

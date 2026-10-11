@@ -1,0 +1,1 @@
+import{c as e,h as t,i as n,l as r,n as i,o as a,r as o,t as s,u as c}from"./dang-CEb-YYkr.js";function l(l){let u=(e,t=1.8,n=!0)=>({pts:e,w:t,kin:n,muc:`go2`,amp:.6});return{id:`bong-${l}`,net:[u(n,2.4),u(i),u(s),u(o),...[-1,1].flatMap(n=>[u(c.map(t(e,n))),u(r.map(t(a,n)))])],the:{"data-bong":``},trongSuot:!0}}export{l as bongThan};
