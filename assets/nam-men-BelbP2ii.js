@@ -1,0 +1,1 @@
+import{t as e}from"./giot-nam-men-Dkl1LrVl.js";import{n as t}from"./dung-pm9muIkx.js";import"./khung-MQuk6stz.js";var n=t(`nam-men`,e);export{n as BAN};

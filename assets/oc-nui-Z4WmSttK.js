@@ -1,0 +1,1 @@
+import{D as e}from"./choi-CXyMD_gI.js";import{n as t}from"./dung-pm9muIkx.js";import"./khung-MQuk6stz.js";var n=t(`oc-nui`,e,`oc-nui-khep-nap`);export{n as BAN};

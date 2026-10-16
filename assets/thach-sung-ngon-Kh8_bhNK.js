@@ -1,0 +1,1 @@
+import{i as e,n as t,t as n}from"./trung-hEMy0b1z.js";var r={x:-130,y:-380,w:1290,h:770};function i(){return[e()]}var a=[{ten:`Trứng`,he:[`sinh`]}],o=e=>`${Math.round(e[0])},${Math.round(e[1])}`,s=[{id:`nap-vo`,the:`data-nap="nap-vo" data-ban-le="${o(n[0])} ${o(n[1])}"`,pts:[t]}];export{s as DUONG,r as KHUNG_NHIN,a as NAM_TO,i as toThachSungNgon};

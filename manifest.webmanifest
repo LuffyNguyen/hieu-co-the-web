@@ -1,0 +1,11 @@
+{
+  "name": "Họ Hàng",
+  "short_name": "Họ Hàng",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FDF6E8",
+  "theme_color": "#FDF6E8"
+}

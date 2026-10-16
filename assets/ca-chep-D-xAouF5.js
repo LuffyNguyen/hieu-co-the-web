@@ -1,0 +1,1 @@
+import{s as e}from"./ca-chep-D4wnrwS2.js";import{r as t}from"./dung-pm9muIkx.js";import"./khung-MQuk6stz.js";var n=t(`ca-chep`,e());export{n as BAN};

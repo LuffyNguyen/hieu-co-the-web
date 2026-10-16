@@ -1,0 +1,1 @@
+import{o as e}from"./choi-CXyMD_gI.js";import{n as t}from"./dung-pm9muIkx.js";import"./khung-MQuk6stz.js";var n=t(`ca-heo`,e);export{n as BAN};

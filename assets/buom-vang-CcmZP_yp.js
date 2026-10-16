@@ -1,0 +1,1 @@
+import{n as e}from"./dung-pm9muIkx.js";import"./khung-MQuk6stz.js";import{t}from"./nha-vb0DplXN.js";var n=e(`buom-vang`,t);export{n as BAN};

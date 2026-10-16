@@ -1,0 +1,1 @@
+import{a as e,n as t,r as n}from"./vay-CZoi4KCQ.js";var r={x:-80,y:-320,w:1200,h:600};function i(){return[t()]}var a=[{ten:`Vây`,he:[`bao`]}],o=e=>`${Math.round(e[0])},${Math.round(e[1])}`,s=[{id:`nap-reu`,the:`data-nap="nap-reu" data-ban-le="${o(n[0])} ${o(n[1])}"`,pts:[e]}];export{s as DUONG,r as KHUNG_NHIN,a as NAM_TO,i as toCaBamDa};
