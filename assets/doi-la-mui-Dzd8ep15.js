@@ -1,0 +1,1 @@
+import{t as e}from"./cuc-phuong-doi-uWLHs9Gv.js";import{n as t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`doi-la-mui`,e,`doi-treo`);export{n as BAN};

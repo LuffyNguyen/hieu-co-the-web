@@ -1,0 +1,1 @@
+import{t as e}from"./tan-rung-ech-cay-B8PeKo9K.js";import{n as t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`ech-cay`,e,`nghi`);export{n as BAN};

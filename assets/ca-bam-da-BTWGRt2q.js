@@ -1,0 +1,1 @@
+import{t as e}from"./muong-hoa-bam-da-8V3RL4sz.js";import{n as t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`ca-bam-da`,e,`bam-da-dan`);export{n as BAN};

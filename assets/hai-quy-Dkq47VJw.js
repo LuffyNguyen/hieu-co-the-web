@@ -1,0 +1,1 @@
+import{n as e}from"./hon-mun-hai-quy-DzJxrVVn.js";import{n as t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`hai-quy`,e,`dung`);export{n as BAN};

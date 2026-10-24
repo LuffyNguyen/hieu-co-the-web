@@ -1,0 +1,1 @@
+var e=[`adn-vong`,`chia-doi`,`hai-lop-mang`];function t(t,n,r){return r===`roi`?`trat_ve`:e.includes(r)?`khop`:`trat_ve`}export{t as n,e as t};

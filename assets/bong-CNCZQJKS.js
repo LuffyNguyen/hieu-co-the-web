@@ -1,0 +1,1 @@
+function e(e){return{id:`bong-${e}`,net:[],the:{"data-bong":``},trongSuot:!0}}export{e as bongThan};

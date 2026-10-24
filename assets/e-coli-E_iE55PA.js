@@ -1,0 +1,1 @@
+import{t as e}from"./giot-vi-khuan-C_OG4qjm.js";import{n as t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`e-coli`,e);export{n as BAN};

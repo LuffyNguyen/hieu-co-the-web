@@ -1,0 +1,1 @@
+import{n as e}from"./bien-vich-8eMH3iDt.js";import{n as t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`vich`,e,`nghi`);export{n as BAN};

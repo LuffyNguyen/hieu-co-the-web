@@ -1,0 +1,1 @@
+import{c as e,i as t,o as n,s as r,t as i}from"./vay-CtMRngvT.js";function a(a){let o=(e,t=1.8,n=!0)=>({pts:e,w:t,kin:n,muc:`go2`,amp:.6});return{id:`bong-${a}`,net:[o(n,2.4),...i.flatMap(t=>t.id===`vay-nguc`?[o(t.vien),o(e(t.vien))]:[o(t.vien)]),o(r),o(t,1.6,!1)],the:{"data-bong":``},trongSuot:!0}}export{a as bongThan};

@@ -1,0 +1,1 @@
+import{t as e}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";import{bongCauGai as t}from"./bong-DBTz2Nig.js";var n=e(`cau-gai`,t(),`bóng loai/cau-gai`);export{n as BAN};

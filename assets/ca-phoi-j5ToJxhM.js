@@ -1,0 +1,1 @@
+import{k as e}from"./chung--waXiCw-.js";import{t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`ca-phoi`,e[`ca-phoi`]());export{n as BAN};

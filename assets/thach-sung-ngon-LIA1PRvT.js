@@ -1,0 +1,1 @@
+import{t as e}from"./cuc-phuong-ngon-Bp-2QW_N.js";import{n as t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`thach-sung-ngon`,e,`ngon-bam-vach`);export{n as BAN};

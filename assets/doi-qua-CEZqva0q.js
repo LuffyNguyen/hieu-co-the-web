@@ -1,0 +1,1 @@
+import{t as e}from"./tan-rung-doi-B42qWks3.js";import{n as t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`doi-qua`,e,`doi-treo`);export{n as BAN};

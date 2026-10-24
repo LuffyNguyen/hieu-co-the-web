@@ -1,0 +1,1 @@
+import{t as e}from"./bien-ca-map-ig5bEwsL.js";import{n as t}from"./dung-DulrrX1S.js";import"./khung-D40hse5U.js";var n=t(`ca-map-vay-den`,e,`nghi`);export{n as BAN};

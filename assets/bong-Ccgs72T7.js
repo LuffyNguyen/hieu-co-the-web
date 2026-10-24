@@ -1,0 +1,1 @@
+import{ONG as e,vienOng as t}from"./bot-bien-DkGh9UOI.js";function n(n){let r=e.map(e=>({pts:t(e),w:1.8,kin:!0,muc:`go2`,amp:.6}));return{id:`bong-${n}`,net:r,the:{"data-bong":``},trongSuot:!0}}export{n as bongThan};
